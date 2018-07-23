@@ -1,0 +1,28 @@
+{
+
+  "name": "testRA.json",
+  "ticker": "RA",
+  "decimals": 18,
+  "reservedTokens":[
+
+  ],
+  "walletAddress":"0x56B2e3C3cFf7f3921Dc2e0F8B8e20d1eEc29216b",
+  "gasprice":100,
+  "mincap": 0,
+  "whitelisting":false,
+  "tiers":[
+    {
+      "name":"###1",
+      "allowModify": false,
+      "startDate": "",
+      "startTime": "",
+      "endDate":"15/01/2020",
+      "endTime":"13:00",
+      "rate":100,
+      "supply": 20,
+      "whitelist":[
+
+      ]
+    }]
+}
+
